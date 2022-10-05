@@ -7,8 +7,8 @@
   },
   "redirects": [
     {
-      "source": "/",
-      "destination": "https://github.com/goodecoder/github-readme-stats"
+      "source": "./",
+      "destination": "https://github.com/anuraghazra/github-readme-stats"
     }
   ]
 }
